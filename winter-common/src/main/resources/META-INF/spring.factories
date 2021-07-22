@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =\
+com.winterchen.common.config.CommonAutoConfig
+
+
