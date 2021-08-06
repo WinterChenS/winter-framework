@@ -19,6 +19,7 @@
         <module>winter-common</module>
         <module>winter-core</module>
         <module>spring-cloud-nacos</module>
+        <module>generator</module>
     </modules>
 
     <properties>
